@@ -1,0 +1,31 @@
+{
+    "version": "0.1",
+    "name": "nota mental",
+    "description": "Apps para resto firefoxOs",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/img/note.png",
+        "48": "/img/note.png",
+        "128": "/img/note.png"
+    },
+    "developer": {
+        "name": "Carlos Daniel Bautista Cigarroa",
+        "url": "http://cdbautista.wordpress.com"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "es": {
+            "description": "Esta aplicación permite crear apuntes",
+            "developer": {
+                "url": "http://cdbautista.wordpress.com"
+            }
+        },
+        "it": {
+            "description": "Esta aplicación permite crear apuntes",
+            "developer": {
+                "url": "http://cdbautista.wordpress.com"
+            }
+        }
+    },
+    "default_locale": "es"
+}
